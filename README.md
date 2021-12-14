@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earhackerdem&label=Profile%20views&color=0e75b6&style=flat" alt="earhackerdem" /> </p>
 
 - 📫 How to reach me **earhackerdem@gmail.com**
+- 📽️ Wath my WSL2 Guide on YT https://youtube.com/playlist?list=PLMBubOua3E5RmSqpaeunWCICiakLpz9xW
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
