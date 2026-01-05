@@ -115,8 +115,3 @@ _February 2018 - July 2018_
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=earhackerdem&show_icons=true&locale=en&layout=compact" alt="earhackerdem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=earhackerdem&show_icons=true&locale=en" alt="earhackerdem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=earhackerdem&" alt="earhackerdem" /></p>
