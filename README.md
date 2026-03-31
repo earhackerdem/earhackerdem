@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>Experienced PHP Developer with 5+ years of comprehensive software development experience, specializing in Laravel, PHP technologies, and full software development lifecycle. Proven track record of delivering scalable, secure, and efficient web applications with expertise in cloud-based deployments and agile methodologies.</em>
+  <em>Experienced Full Stack Developer with 5+ years of comprehensive software development experience, specializing in Python, Full Stack technologies, and full software development lifecycle. Proven track record of delivering scalable, secure, and efficient web applications with expertise in cloud-based deployments and agile methodologies.</em>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -84,8 +84,8 @@ _February 2018 - July 2018_
 
 | Category | Skills |
 |----------|--------|
-| **Languages & Standards** | PHP, Java, JavaScript, TypeScript, PSR Standards |
-| **Frameworks** | Laravel (8 & 9), Symfony, Yii, Spring Boot, Angular, Livewire |
+| **Languages & Standards** | Python, PHP, Java, JavaScript, TypeScript, PSR Standards |
+| **Frameworks** | FastAPI, Laravel (8 & 9), Symfony, Yii, Spring Boot, Angular, Livewire |
 | **Databases** | MySQL, PostgreSQL, SQLite (Testing), Redis (In-Memory) |
 | **Cloud & DevOps** | AWS (S3, RDS, Secrets Manager), Railway, cPanel, Docker, GitHub Actions, Bitbucket Pipelines |
 | **Tools** | Postman, Composer, NPM, DBeaver, TablePlus, Cursor IDE |
@@ -101,8 +101,8 @@ _February 2018 - July 2018_
 ## 🎓 Education
 
 - **TICS Engineer** | Instituto Tecnológico de Apizaco (2015 - 2020)
-- **PHP Professional Path Certification** | Platzi.com (Completed)
-- **Platzi Courses**: Basic JS, PHP Basics, Advanced PHP, Laravel, API REST, Git/GitHub, DB Fundamentals, Eloquent ORM.
+- **Python Professional Path Certification** | Platzi.com (Completed)
+- **Platzi Courses**: Basic JS, Python Basics, FastAPI, Advanced PHP, Laravel, API REST, Git/GitHub, DB Fundamentals, Eloquent ORM.
 
 ---
 
