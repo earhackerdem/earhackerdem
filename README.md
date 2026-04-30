@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saúl Pérez</h1>
-<h3 align="center">Experienced PHP Developer | Software Engineer</h3>
+<h3 align="center">Full Stack Developer | AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=earhackerdem&label=Profile%20views&color=0e75b6&style=flat" alt="earhackerdem" />
 </p>
 
 <p align="center">
-  <em>Experienced Full Stack Developer with 5+ years of comprehensive software development experience, specializing in Python, Full Stack technologies, and full software development lifecycle. Proven track record of delivering scalable, secure, and efficient web applications with expertise in cloud-based deployments and agile methodologies.</em>
+  <em>Full Stack Developer & AI Engineer passionate about keeping up with the latest technologies. I enjoy working in teams and believe collaboration is the key to better results. Currently designing and delivering Gen AI development courses and coaching AI-assisted workflows at LIDR.co.</em>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,63 +20,35 @@
 </p>
 
 - 📫 Reach me at: **earhackerdem@gmail.com**
+- 🌐 Portfolio: **[earhackerdem.github.io](https://earhackerdem.github.io)**
 - 📽️ Watch my **WSL2 Guide** on YT: [Click Here](https://youtube.com/playlist?list=PLMBubOua3E5RmSqpaeunWCICiakLpz9xW)
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer @ Global Logic
-_July 2024 – December 2024_
-- Conducting advanced Level 2 and 3 support for complex PHP MVC projects.
-- Implementing code optimization and debugging strategies.
-- Ensuring high-performance and scalable software solutions.
-- **Skills**: PHP MVC, Code Optimization, Advanced Debugging, Performance Optimization.
+### Full Stack Developer | AI Engineer @ LIDR.co
+_March 2025 – Present · Remote_
+- Design and deliver courses on Gen AI development strategies: Commands, Rules, Agents, and advanced Prompting techniques.
+- Guide teams from Product Definition and User Stories (Gherkin acceptance criteria) through to deployment using AI-assisted workflows.
+- Coach AI-driven component implementation from Figma designs to production code, and PR review workflows using AI tools.
+- **Skills**: Python, FastAPI, PostgreSQL, Docker, Storybook, Playwright, Claude Code, Testing, CI/CD.
 
-### Backend Developer & Business Analyst @ Black Bull Markets
-_December 2022 - June 2024_
-- **Projects**: SCA and MyWallet.
-- Developed and maintained API REST applications using Laravel 8/9 and its ecosystem (Passport for authentication).
-- Implemented microservices architecture with Symfony framework.
-- Conducted comprehensive unit and feature testing with PHPUnit and backend debugging.
-- Reduced query execute load by optimizing the Eloquent Queries and DTOs from 8MB to 1MB.
-- Contributed to deployment processes (CI/CD) using AWS services and Bitbucket Pipelines.
-- Supported operational training and team knowledge transfer.
-- **Skills**: Laravel 8/9, Passport, Symfony, PHPUnit, Microservices, AWS, Bitbucket Pipelines, API REST.
+### Full Stack Developer @ Black Bull Markets
+_December 2022 – February 2025 · Zapopan, Jalisco · On-site_
+- Mitigated a DDoS attack and protected Salesforce data integrity by identifying malicious IP ranges and implementing blocking rules via Barracuda Firewall.
+- Refactored MySQL databases by applying normalization rules and writing migration scripts to decouple multi-purpose fields, significantly improving data consistency.
+- Bridged the gap between stakeholders and engineering by gathering KYC process requirements and writing technical User Stories in Confluence and Jira.
+- Managed file records and permissions within AWS S3 buckets to ensure client data privacy and resolve operational errors.
+- Mentored Operations staff in SQL, enabling them to autonomously handle data updates and minor troubleshooting.
+- Ensured software quality through unit and feature tests and validated complex API endpoints with Postman.
+- **Skills**: Python, FastAPI, Docker, Jira, AWS, MySQL, Postman, Testing, CI/CD.
 
-### System Engineer Junior @ Infosys
-_January 2022 – November 2022_
-- Backend using Spring Boot and Java; Frontend using Angular and TypeScript.
-- Support for ETL and Multitenant Application.
-- PostgreSQL and Microsoft Remote Desktop.
-- Agile, Java, JavaScript, Bootstrap Certifications.
-- **Skills**: PostgreSQL, TypeScript, AngularJS, Bootstrap, Spring Boot, Java.
-
-### Laravel Developer @ DIC CONSULTORES
-_June 2021 – December 2021_
-- Developed end-to-end business solutions web applications with Laravel 7/8.
-- Proficient in database layer (Migrations, Factories, Seeders, Eloquent Relationships).
-- Expertise in the HTTP layer including resource routes, requests, policies, roles, and permissions.
-- AdminLTE (Bootstrap 4), Blade Layouts, Components, and Livewire.
-- **Stack**: Laravel 8 (Auth, Policies, Queues, Livewire), AdminLTE, SweatAlert, Git.
-
-### Freelance Laravel Developer @ Maikai & Six Flags Project
-_March 2021 – June 2021_
-- Managed full application lifecycle from requirements to deployment on cPanel.
-- Integrated Google Analytics for performance tracking and implemented Redis-based Queues.
-- Completed project two weeks ahead of deadline.
-- **Skills**: Laravel, cPanel, Google Analytics, Redis, Full Stack.
-
-### Process Assistant @ Desarrollo Industrial
-_November 2018 - March 2019_
-- Captured details about business process to create process manuals and flowcharts.
-- Acquired abilities: Teamwork and Communication.
-
-### Web Developer @ Centro de Computo (CC) ITA
-_February 2018 - July 2018_
-- **Project**: Wifi Access Control System.
-- System that provides control for Wifi Devices of the Institute, using MAC address to register devices.
-- **Tech Stack**: HTML, Bootstrap, PHP, MySQL (Join Queries, Transactions), Git & Github.
+### Full Stack Developer @ Infosys
+_March 2021 – November 2022 · Remote_
+- Backend and Frontend development across multiple projects.
+- Worked with PostgreSQL databases and contributed to infrastructure via Microsoft Remote Desktop.
+- **Skills**: Python, FastAPI, PostgreSQL, Docker, Storybook, Playwright, Testing, CI/CD.
 
 ---
 
@@ -84,25 +56,23 @@ _February 2018 - July 2018_
 
 | Category | Skills |
 |----------|--------|
-| **Languages & Standards** | Python, PHP, Java, JavaScript, TypeScript, PSR Standards |
-| **Frameworks** | FastAPI, Laravel (8 & 9), Symfony, Yii, Spring Boot, Angular, Livewire |
-| **Databases** | MySQL, PostgreSQL, SQLite (Testing), Redis (In-Memory) |
-| **Cloud & DevOps** | AWS (S3, RDS, Secrets Manager), Railway, cPanel, Docker, GitHub Actions, Bitbucket Pipelines |
-| **Tools** | Postman, Composer, NPM, DBeaver, TablePlus, Cursor IDE |
+| **Languages** | Python, PHP, Java, JavaScript, TypeScript |
+| **Frameworks** | FastAPI, Laravel, Symfony, Spring Boot, Angular, Livewire |
+| **Databases** | MySQL, PostgreSQL, SQLite, Redis |
+| **Cloud & DevOps** | AWS (S3, RDS, Secrets Manager), Docker, GitHub Actions, CI/CD |
+| **AI & Tooling** | Claude Code, Playwright, Storybook, Postman, Figma |
 | **OS** | Linux, Windows, MacOS, WSL2 |
-| **Certifications** | Agile, Java, JavaScript, Bootstrap (Infosys) |
 
 **Languages Spoken**:
-- English (Professional Working Proficiency)
+- English (B2 – Professional Working Proficiency)
 - Spanish (Native)
 
 ---
 
 ## 🎓 Education
 
-- **TICS Engineer** | Instituto Tecnológico de Apizaco (2015 - 2020)
-- **Python Professional Path Certification** | Platzi.com (Completed)
-- **Platzi Courses**: Basic JS, Python Basics, FastAPI, Advanced PHP, Laravel, API REST, Git/GitHub, DB Fundamentals, Eloquent ORM.
+- **B.Sc. in Information and Communications Technology** (Software Engineering Focus) | Instituto Tecnológico de México, Apizaco Campus (2015 – 2020)
+
 
 ---
 
@@ -114,4 +84,3 @@ _February 2018 - July 2018_
 - **Leadership**: I enjoy teaching and helping classmates and co-workers.
 
 ---
-
